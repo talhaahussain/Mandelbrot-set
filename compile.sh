@@ -1,3 +1,3 @@
 #!/bin/bash
 
-g++ mandelbrot.cpp -o mandelbrot -lSDL2
+g++ -std=c++20 mandelbrot.cpp -o mandelbrot -lSDL2
