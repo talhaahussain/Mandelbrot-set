@@ -1,6 +1,6 @@
 # Mandelbrot-set
 
-An implementation of the Mandelbrot set in C++. 
+An implementation of the Mandelbrot set in C++, using SDL2. 
 
 ### Compiling 
 
